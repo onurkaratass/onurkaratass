@@ -32,5 +32,5 @@ Currently expanding software fundamentals through **Harvard CS50x** while buildi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Weasleyofc&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onurkaratass&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
