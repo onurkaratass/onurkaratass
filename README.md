@@ -1,4 +1,4 @@
-# Hi there, I'm Onur Karataş 👋
+# Onur Karataş 
 
 An **Engineering Technician** and multidisciplinary maker bridging the gap between **Mechanical Design (CAD/CAM)**, **Industrial Automation**, and **Software Engineering**. 
 
