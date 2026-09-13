@@ -32,5 +32,5 @@ Currently expanding software fundamentals through **Harvard CS50x** while buildi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurkaratass&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=onurkaratass&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
